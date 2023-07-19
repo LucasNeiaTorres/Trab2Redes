@@ -1,0 +1,6 @@
+4  # Número total de jogadores
+
+10.254.223.29:50000  # Endereço e porta do jogador 1
+10.254.223.30:50001  # Endereço e porta do jogador 2
+10.254.223.31:50002  # Endereço e porta do jogador 3
+10.254.223.32:50003  # Endereço e porta do jogador 4
